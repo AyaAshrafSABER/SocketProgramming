@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Http_Server.dir/my_Server.cpp.o CMakeFiles/Http_Server.dir/ServerManager.cpp.o CMakeFiles/Http_Server.dir/Parser.cpp.o CMakeFiles/Http_Server.dir/Reciever.cpp.o  -o Http_Server -pthread 

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/saber/CLionProjects/Http_Server/Parser.cpp
+Parser.h
+/home/saber/CLionProjects/Http_Server/Parser.h
+
+/home/saber/CLionProjects/Http_Server/Parser.h
+cstdio
+-
+regex
+-
+stdio.h
+-
+iostream
+-
+memory
+-
+fstream
+-
+stdio.h
+-
+stdlib.h
+-
+string
+-
+sys/socket.h
+-
+sys/types.h
+-
+netinet/in.h
+-
+unistd.h
+-
+
