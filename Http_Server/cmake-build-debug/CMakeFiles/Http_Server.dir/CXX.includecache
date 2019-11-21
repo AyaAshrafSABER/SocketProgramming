@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/saber/CLionProjects/Http_Server/Parser.cpp
+/home/saber/CLionProjects/SocketProgramming/Http_Server/Parser.cpp
 Parser.h
-/home/saber/CLionProjects/Http_Server/Parser.h
+/home/saber/CLionProjects/SocketProgramming/Http_Server/Parser.h
 
-/home/saber/CLionProjects/Http_Server/Parser.h
+/home/saber/CLionProjects/SocketProgramming/Http_Server/Parser.h
 cstdio
 -
 regex
@@ -37,4 +37,52 @@ netinet/in.h
 -
 unistd.h
 -
+
+/home/saber/CLionProjects/SocketProgramming/Http_Server/Reciever.cpp
+Reciever.h
+/home/saber/CLionProjects/SocketProgramming/Http_Server/Reciever.h
+
+/home/saber/CLionProjects/SocketProgramming/Http_Server/Reciever.h
+string
+-
+Parser.h
+/home/saber/CLionProjects/SocketProgramming/Http_Server/Parser.h
+
+/home/saber/CLionProjects/SocketProgramming/Http_Server/ServerManager.cpp
+ServerManager.h
+/home/saber/CLionProjects/SocketProgramming/Http_Server/ServerManager.h
+
+/home/saber/CLionProjects/SocketProgramming/Http_Server/ServerManager.h
+sys/socket.h
+-
+sys/types.h
+-
+netinet/in.h
+-
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+pthread.h
+-
+thread
+-
+mutex
+-
+Reciever.h
+/home/saber/CLionProjects/SocketProgramming/Http_Server/Reciever.h
+
+/home/saber/CLionProjects/SocketProgramming/Http_Server/my_Server.cpp
+cstdlib
+-
+my_Server.h
+/home/saber/CLionProjects/SocketProgramming/Http_Server/my_Server.h
+ServerManager.h
+/home/saber/CLionProjects/SocketProgramming/Http_Server/ServerManager.h
+
+/home/saber/CLionProjects/SocketProgramming/Http_Server/my_Server.h
 

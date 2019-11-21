@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/saber/CLionProjects/Http_Server/Parser.cpp" "/home/saber/CLionProjects/Http_Server/cmake-build-debug/CMakeFiles/Http_Server.dir/Parser.cpp.o"
-  "/home/saber/CLionProjects/Http_Server/Reciever.cpp" "/home/saber/CLionProjects/Http_Server/cmake-build-debug/CMakeFiles/Http_Server.dir/Reciever.cpp.o"
-  "/home/saber/CLionProjects/Http_Server/ServerManager.cpp" "/home/saber/CLionProjects/Http_Server/cmake-build-debug/CMakeFiles/Http_Server.dir/ServerManager.cpp.o"
-  "/home/saber/CLionProjects/Http_Server/my_Server.cpp" "/home/saber/CLionProjects/Http_Server/cmake-build-debug/CMakeFiles/Http_Server.dir/my_Server.cpp.o"
+  "/home/saber/CLionProjects/SocketProgramming/Http_Server/Parser.cpp" "/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/CMakeFiles/Http_Server.dir/Parser.cpp.o"
+  "/home/saber/CLionProjects/SocketProgramming/Http_Server/Reciever.cpp" "/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/CMakeFiles/Http_Server.dir/Reciever.cpp.o"
+  "/home/saber/CLionProjects/SocketProgramming/Http_Server/ServerManager.cpp" "/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/CMakeFiles/Http_Server.dir/ServerManager.cpp.o"
+  "/home/saber/CLionProjects/SocketProgramming/Http_Server/my_Server.cpp" "/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/CMakeFiles/Http_Server.dir/my_Server.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Http_Client"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/saber/CLionProjects/Http_Client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/saber/CLionProjects/Http_Client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Http_Client">
+				<Option output="/home/saber/CLionProjects/Http_Client/cmake-build-debug/Http_Client" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/saber/CLionProjects/Http_Client/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 Http_Client"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Http_Client/fast">
+				<Option output="/home/saber/CLionProjects/Http_Client/cmake-build-debug/Http_Client" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/saber/CLionProjects/Http_Client/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 Http_Client/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/saber/CLionProjects/Http_Client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/saber/CLionProjects/Http_Client/ClientManager.cpp">
+			<Option target="Http_Client"/>
+		</Unit>
+		<Unit filename="/home/saber/CLionProjects/Http_Client/ClientManager.h">
+			<Option target="Http_Client"/>
+		</Unit>
+		<Unit filename="/home/saber/CLionProjects/Http_Client/Parser.cpp">
+			<Option target="Http_Client"/>
+		</Unit>
+		<Unit filename="/home/saber/CLionProjects/Http_Client/Parser.h">
+			<Option target="Http_Client"/>
+		</Unit>
+		<Unit filename="/home/saber/CLionProjects/Http_Client/Receiver.cpp">
+			<Option target="Http_Client"/>
+		</Unit>
+		<Unit filename="/home/saber/CLionProjects/Http_Client/Receiver.h">
+			<Option target="Http_Client"/>
+		</Unit>
+		<Unit filename="/home/saber/CLionProjects/Http_Client/Sender.cpp">
+			<Option target="Http_Client"/>
+		</Unit>
+		<Unit filename="/home/saber/CLionProjects/Http_Client/Sender.h">
+			<Option target="Http_Client"/>
+		</Unit>
+		<Unit filename="/home/saber/CLionProjects/Http_Client/my_client.cpp">
+			<Option target="Http_Client"/>
+		</Unit>
+		<Unit filename="/home/saber/CLionProjects/Http_Client/my_client.h">
+			<Option target="Http_Client"/>
+		</Unit>
+		<Unit filename="/home/saber/CLionProjects/Http_Client/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

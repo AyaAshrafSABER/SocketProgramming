@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Http_Client.dir/my_client.cpp.o CMakeFiles/Http_Client.dir/ClientManager.cpp.o CMakeFiles/Http_Client.dir/Receiver.cpp.o CMakeFiles/Http_Client.dir/Sender.cpp.o CMakeFiles/Http_Client.dir/Parser.cpp.o  -o Http_Client 

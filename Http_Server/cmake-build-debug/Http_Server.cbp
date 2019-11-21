@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/saber/CLionProjects/Http_Server/cmake-build-debug"/>
+				<Option working_dir="/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/saber/CLionProjects/Http_Server/cmake-build-debug"/>
+				<Option working_dir="/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Http_Server">
-				<Option output="/home/saber/CLionProjects/Http_Server/cmake-build-debug/Http_Server" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/saber/CLionProjects/Http_Server/cmake-build-debug"/>
+				<Option output="/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Http_Server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Http_Server"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Http_Server"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Http_Server/fast">
-				<Option output="/home/saber/CLionProjects/Http_Server/cmake-build-debug/Http_Server" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/saber/CLionProjects/Http_Server/cmake-build-debug"/>
+				<Option output="/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Http_Server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,48 +67,48 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Http_Server/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Http_Server/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/saber/CLionProjects/Http_Server/cmake-build-debug"/>
+				<Option working_dir="/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/saber/CLionProjects/Http_Server/Parser.cpp">
+		<Unit filename="/home/saber/CLionProjects/SocketProgramming/Http_Server/Parser.cpp">
 			<Option target="Http_Server"/>
 		</Unit>
-		<Unit filename="/home/saber/CLionProjects/Http_Server/Parser.h">
+		<Unit filename="/home/saber/CLionProjects/SocketProgramming/Http_Server/Parser.h">
 			<Option target="Http_Server"/>
 		</Unit>
-		<Unit filename="/home/saber/CLionProjects/Http_Server/Reciever.cpp">
+		<Unit filename="/home/saber/CLionProjects/SocketProgramming/Http_Server/Reciever.cpp">
 			<Option target="Http_Server"/>
 		</Unit>
-		<Unit filename="/home/saber/CLionProjects/Http_Server/Reciever.h">
+		<Unit filename="/home/saber/CLionProjects/SocketProgramming/Http_Server/Reciever.h">
 			<Option target="Http_Server"/>
 		</Unit>
-		<Unit filename="/home/saber/CLionProjects/Http_Server/ServerManager.cpp">
+		<Unit filename="/home/saber/CLionProjects/SocketProgramming/Http_Server/ServerManager.cpp">
 			<Option target="Http_Server"/>
 		</Unit>
-		<Unit filename="/home/saber/CLionProjects/Http_Server/ServerManager.h">
+		<Unit filename="/home/saber/CLionProjects/SocketProgramming/Http_Server/ServerManager.h">
 			<Option target="Http_Server"/>
 		</Unit>
-		<Unit filename="/home/saber/CLionProjects/Http_Server/my_Server.cpp">
+		<Unit filename="/home/saber/CLionProjects/SocketProgramming/Http_Server/my_Server.cpp">
 			<Option target="Http_Server"/>
 		</Unit>
-		<Unit filename="/home/saber/CLionProjects/Http_Server/my_Server.h">
+		<Unit filename="/home/saber/CLionProjects/SocketProgramming/Http_Server/my_Server.h">
 			<Option target="Http_Server"/>
 		</Unit>
-		<Unit filename="/home/saber/CLionProjects/Http_Server/CMakeLists.txt">
+		<Unit filename="/home/saber/CLionProjects/SocketProgramming/Http_Server/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

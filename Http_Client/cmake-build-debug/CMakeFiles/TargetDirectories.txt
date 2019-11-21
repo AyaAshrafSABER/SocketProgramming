@@ -1,0 +1,3 @@
+/home/saber/CLionProjects/Http_Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/saber/CLionProjects/Http_Client/cmake-build-debug/CMakeFiles/Http_Client.dir
+/home/saber/CLionProjects/Http_Client/cmake-build-debug/CMakeFiles/edit_cache.dir

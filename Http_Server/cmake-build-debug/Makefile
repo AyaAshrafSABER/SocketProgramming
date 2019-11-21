@@ -48,10 +48,10 @@ RM = /opt/clion-2019.2.5/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/saber/CLionProjects/Http_Server
+CMAKE_SOURCE_DIR = /home/saber/CLionProjects/SocketProgramming/Http_Server
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/saber/CLionProjects/Http_Server/cmake-build-debug
+CMAKE_BINARY_DIR = /home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/saber/CLionProjects/Http_Server/cmake-build-debug/CMakeFiles /home/saber/CLionProjects/Http_Server/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/CMakeFiles /home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/saber/CLionProjects/Http_Server/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/saber/CLionProjects/SocketProgramming/Http_Server/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
